@@ -1,12 +1,10 @@
 
 import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className=" text-3xl font-sans font-bold ">
-      Namaste Everyone
-      
-    </div>
+   <Body/>
   );
 }
 
