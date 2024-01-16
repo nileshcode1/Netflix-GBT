@@ -6,9 +6,9 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+ // <React.StrictMode>   //eg -strick mode make  two api call always just for better rendering and to check inconsistency between api calls.
     <App />
-  </React.StrictMode>
+ // </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function
