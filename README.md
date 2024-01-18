@@ -48,5 +48,6 @@ Before starting the project, make sure to create an `.env` file and add your TMD
 ### GPT Search Page
 - GPT Search Bar
 - Movie Suggestions
+- multi-language page
 
 
