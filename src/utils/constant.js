@@ -7,12 +7,12 @@ export const LOGO =
 
 
   export const API_OPTIONS = {
-  method: 'GET',
-  headers: {
-    accept: 'application/json',
-    Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMTRhNTVjNzQ0ZWM5ZTZiZGQ2NmZkMjczYzEyN2MwZSIsInN1YiI6IjY1YTU2ODkxNjQ3NjU0MDEyYmQ3MGVjOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.fg-OrIi7zCligyqFFsXrHCxCB_LpQclpAyjVGW_p7q4'
-  }
-};
+    method: "GET",
+    headers: {
+      accept: "application/json",
+      Authorization: "Bearer " + process.env.REACT_APP_TMDB_KEY,
+    },
+  };
 
 
 export const IMG_CDN_URL =
