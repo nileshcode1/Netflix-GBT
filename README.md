@@ -4,7 +4,7 @@ This project is a React app that utilizes GPT for Netflix movie suggestions. It 
 
 ## Live 
 
-Visit the live demo [here](https://65a96d3eae9fbf0a721564b1--netflix-gpt223.netlify.app/).
+Visit the live demo [here](https://netflix-gpt.nileshpandey.cloud/).
 
 ## Screenshot
 ![image](https://github.com/nileshcode1/Netflix-GPT/assets/77544758/fe775514-5a3d-44ae-8a3d-fbcb9059db1f)
